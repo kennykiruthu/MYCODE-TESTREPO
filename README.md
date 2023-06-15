@@ -1,2 +1,1 @@
-# MYCODE-TESTREPO
-Me doing practices at home on c...
+mycode at home is fine
